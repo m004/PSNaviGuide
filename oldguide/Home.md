@@ -41,4 +41,4 @@ You need this piece of software because D4VR has some issue with the several Mot
 * [The latest release of BthPS3 by nefarius](https://github.com/ViGEm/BthPS3/releases)
 * [The latest release of devreorder by briankendall](https://github.com/briankendall/devreorder/releases)
 
-Next page: [Initial Setup](https://github.com/m004/PSNaviGuide/wiki/Initial-Setup)
+Next page: [Initial Setup](https://github.com/m004/PSNaviGuide/blob/master/oldguide/Initial%20Setup.md)

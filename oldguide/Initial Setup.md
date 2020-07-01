@@ -69,4 +69,4 @@ The entire DeviceManagerConfig.json should now look like this (Don't mind the ot
 * Copy devreorder.ini and the dinput8.dll from the x64 folder to the Driver4VR folder.
 * Set gamepad_api_enabled to false in %appdata%\PSMoveService\DeviceManagerConfig.json
 
-Next page: [Input mapping and offsetting](https://github.com/m004/PSNaviGuide/wiki/Input-mapping-and-offseting)
+Next page: [Input mapping and offsetting](https://github.com/m004/PSNaviGuide/blob/master/oldguide/Input%20mapping%20and%20offsetting.md)
